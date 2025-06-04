@@ -1,1 +1,1 @@
-Hola desde rama Jose
+Hola desde ambas ramas, conflicto resuelto
